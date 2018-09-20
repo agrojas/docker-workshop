@@ -2,12 +2,12 @@
 ## General 
 - [Intro a Docker](https://docs.docker.com/engine/docker-overview/) 
 - [Lista de recursos y proyectos](https://github.com/veggiemonk/awesome-docker)
-- [](https://github.com/wsargent/docker-cheat-sheet)
-- [](https://www.manning.com/books/docker-in-practice)
-- [](https://dockerbook.com/)
-- [](https://www.docker.com/customers)
-- [](https://training.play-with-docker.com/)
-- [](https://labs.play-with-docker.com/)
+- [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [docker-in-practice](https://www.manning.com/books/docker-in-practice)
+- [dockerbook](https://dockerbook.com/)
+- [Casos de exito](https://www.docker.com/customers)
+- [Tutorial de docker](https://training.play-with-docker.com/)
+- [Usar docker remoto](https://labs.play-with-docker.com/)
 
 
 ## Volumes 
