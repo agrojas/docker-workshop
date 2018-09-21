@@ -7,24 +7,25 @@
 - [dockerbook](https://dockerbook.com/)
 - [Casos de exito](https://www.docker.com/customers)
 - [Tutorial de docker](https://training.play-with-docker.com/)
-- [Usar docker remoto](https://labs.play-with-docker.com/)
+- [Aplicación para jugar con docker](https://labs.play-with-docker.com/)
 
 
 ## Volumes 
-- [](https://docs.docker.com/storage/volumes/)
-- [](https://dockertips.com/volumenes)
+- [Documentación oficial sobre volumenes](https://docs.docker.com/storage/volumes/)
+- [Tips de volumentes](https://dockertips.com/volumenes)
+  - [Articulo sobre Docker & Unionfs](https://terriblecode.com/blog/how-docker-images-work-union-file-systems-for-dummies/) 
 
 ## Network
-- [](https://docs.docker.com/network/)
-- [](https://www.digitalocean.com/community/tutorials/el-ecosistema-de-docker-creacion-de-redes-y-comunicacion-es)
-- [](https://dockertips.com/algo_sobre_redes)
+- [Documentación oficial sobre redes con docker](https://docs.docker.com/network/)
+- [Tutoral sobre la creación de redes ](https://www.digitalocean.com/community/tutorials/el-ecosistema-de-docker-creacion-de-redes-y-comunicacion-es)
+- [Algo sobre redes](https://dockertips.com/algo_sobre_redes)
 
 ## Testing
-- [](https://testcollab.com/blog/using-docker-to-manage-and-replicate-test-environments/)
-- [](https://blog.codeship.com/testing-with-docker/)
+- [Docker para ambientes de test](https://testcollab.com/blog/using-docker-to-manage-and-replicate-test-environments/)
+- [Post de codeship sobre el uso de docker para testing](https://blog.codeship.com/testing-with-docker/)
 
 ## IC & Software develpment
-- [](https://jenkins.io/solutions/docker/)
-- [](https://docs.travis-ci.com/user/docker/)
-- [](https://devcenter.heroku.com/articles/container-registry-and-runtime)
-- [](https://devcenter.heroku.com/articles/local-development-with-docker-compose)
+- [Jenkins + Docker](https://jenkins.io/solutions/docker/)
+- [Travis + Docker](https://docs.travis-ci.com/user/docker/)
+- [Heroku + Docker (I)](https://devcenter.heroku.com/articles/container-registry-and-runtime)
+- [Heroku + Docker (II)](https://devcenter.heroku.com/articles/local-development-with-docker-compose)
