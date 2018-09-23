@@ -1,19 +1,14 @@
-# Crea una aplicación Drupal con una base de datos MySQL
-# Uso: docker-compose up -d
-# Nota: el nombre de la base es "mysql"
+version: '3'
 
-version: "2"
 services:
+  db:
+    image: postgres
   web:
-    image: drupal:8.0.6-apache
+    build: .
+    command: python3 manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
     ports:
-      - "8380:80"
-    links:
-      - mysql
-  mysql:
-    image: mysql:5.5
-    environment:
-      - MYSQL_ROOT_PASSWORD=root
-      - MYSQL_DATABASE=drupal
-      - MYSQL_USER=drupal
-      - MYSQL_PASSWORD=drupal
+      - "8000:8000"
+    depends_on:
+      - db

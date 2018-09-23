@@ -23,6 +23,9 @@
 ## Testing
 - [Docker para ambientes de test](https://testcollab.com/blog/using-docker-to-manage-and-replicate-test-environments/)
 - [Post de codeship sobre el uso de docker para testing](https://blog.codeship.com/testing-with-docker/)
+- [Docker + Test de integracion (I)](https://medium.com/rv-data/go-database-integration-testing-with-docker-cb145b5f942c)
+- [Docker + Test de integracion (II)](https://hharnisc.github.io/2016/06/19/integration-testing-with-docker-compose.html)
+
 
 ## IC & Software develpment
 - [Jenkins + Docker](https://jenkins.io/solutions/docker/)
