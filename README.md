@@ -9,8 +9,8 @@ Material sobre el workshop de docker
   - [repo](https://github.com/agrojas/docker-workshop/tree/master/resources/slides)
   
 ## :computer: Ejemplos 
-  - [Ejemplos vistos en clase](https://github.com/agrojas/docker-workshop/tree/master/resources/slides)
-  - [Ejemplos varios]()
+  - [Ejemplos vistos en clase](https://github.com/agrojas/docker-workshop/tree/master/examples)
+  - [Ejemplos varios](https://github.com/veggiemonk/awesome-docker)
 ## :books: Material de referencia 
 - [Listado de recursos sobre docker](https://github.com/agrojas/docker-workshop/tree/master/resources)
 
